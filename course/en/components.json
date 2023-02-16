@@ -1,0 +1,2856 @@
+[
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Module 1 - sections",
+    "displayTitle": "Module 1 - sections",
+    "body": "<p>Module 1 contains six sections.</p>",
+    "_id": "6398674f5c080d0a15af1072",
+    "_parentId": "63985fb65c080d0a15af1071",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each section to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Introduction",
+        "body": "<p>This section will introduce you to:​</p><ul><li><p>what data collection is​</p></li><li><p>differences between data collection and data acquisition​</p></li><li><p>differences between qualitative and quantitative data collection​</p></li><li><p>data quality as part of the data collection process</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Agile",
+        "body": "<p>This section will introduce you to:​</p><ul><li><p>what Agile methodology is​</p></li><li><p>differences between Agile and traditional methods (such as&nbsp;Waterfall)​</p></li><li><p>phases of Agile delivery​</p></li><li><p>how can Agile be applied to data collection​</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "User Centred Design​",
+        "body": "<p>This section will introduce you to:​</p><ul><li><p>what User Centred Design (UCD) approach is​</p></li><li><p>civil service guidance on developing products and services:&nbsp;Service Manual and Government Design Principles​</p></li><li><p>understanding why your stakeholders (e.g., customers or&nbsp;sponsors) need the data and how they intend to use it​</p></li><li><p>using insights from respondent’s stories, journeys and mental&nbsp;models to inform your data collection</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accessibility and Inclusivity​",
+        "body": "<p>This section will introduce you to:​</p><ul><li><p>what inclusive design is​</p></li><li><p>accessibility standards to follow when designing&nbsp;data collection&nbsp;activities​</p></li><li><p>using appropriate tone, readability and language in&nbsp;your data&nbsp;collection activities</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethics",
+        "body": "<p>This section will introduce you to:</p><ul><li>Different ethical issues&nbsp;that are relevant in&nbsp;qualitative research data collection.&nbsp;​​</li><li><p>Note that this is not an exhaustive list of ethical issues, but&nbsp;rather, an introduction of more general ethical principles in&nbsp;qualitative research.&nbsp;​​</p></li><li><p>You can use these ethical principles to help guide decision&nbsp;making in designing and conducting qualitative research. ​​</p></li><li><p>Note: there are ethical considerations for both the participant&nbsp;and the&nbsp;researcher. Some considerations will also apply to&nbsp;quantitative data collection.</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Research Planning​",
+        "body": "<p>This section will cover research grids and data collection communications.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Navigation",
+    "displayTitle": "",
+    "body": "",
+    "_id": "639888a45c080d0a15af1083",
+    "_parentId": "639888525c080d0a15af1082",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Outcomes",
+    "displayTitle": "",
+    "body": "<p>This course is designed for anyone who wants to gain a better understanding of the basic considerations for data&nbsp;collection activities and processes. It aims to provide a checklist of considerations that need to be made when designing&nbsp;data collection activities.&nbsp;​</p><p>The is course will introduce how to design your data collection tool. The course covers qualitative research methods and&nbsp;survey design. We will discuss how qualitative methodologies can be used both for their own research purposes, or&nbsp; to&nbsp;inform survey design. We have referred to surveys throughout the course to add context to the information provided,&nbsp;however the principles can be applied wider than just survey design, for example,&nbsp;when designing an online form.&nbsp;​</p><p>By the end of the course, you should:​</p><ul><li><p>understand data collection design and the processes involved​</p></li><li><p>begin to identify when certain qualitative research methods may or may not be appropriate for your data collection​</p></li><li><p>understand the importance of designing your data collection based&nbsp;on user needs​</p></li><li><p>be aware of the considerations you need to make when analysing and reporting on qualitative data​</p></li><li><p>identify any areas where you feel you need further training</p></li></ul><p>Please note that this course will&nbsp;not&nbsp;aim to:​</p><ul><li><p>give in-depth training on how to conduct data collection&nbsp;activities. This is a basic,&nbsp;fundamentals course and does not&nbsp;mean that you will be trained to carry out research after&nbsp;completion of the course. Future in-depth training and/or&nbsp;guidance is currently in consideration​</p></li><li><p>give detailed instructions on how to carry out specific research.&nbsp;Instead, this course will give you an overview of any&nbsp;considerations you need to make&nbsp;in order to&nbsp;design robust data&nbsp;collection activities</p></li></ul>",
+    "_id": "63988be15c080d0a15af108a",
+    "_parentId": "63988bc25c080d0a15af1089",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is data collection?",
+    "displayTitle": "What is data collection?",
+    "body": "<p>Data collection is the systematic process of gathering, measuring and (where&nbsp;necessary)&nbsp;analysing information on variables of interest.&nbsp;​It&nbsp;may involve gathering insights, thoughts and feelings which&nbsp;can help to&nbsp;further explain the&nbsp;context behind the data you are collecting (for example, the 'why' behind&nbsp;the data).&nbsp;​Data collection is used in many different contexts by businesses, academics, government&nbsp;and other organisations.&nbsp;​</p><p>The data you collect can be analysed and used to inform important decisions. The way that&nbsp;the data is collected can impact the quality of the data. &nbsp;Poor quality data&nbsp;may lead to&nbsp;inaccurate findings, conclusions, and recommendations from your research. Effective data&nbsp;collection provides the information that's needed to answer questions and make informed&nbsp;decisions.&nbsp;​</p><p>You can also collect administrative data, for example, hospital or educational records. This&nbsp;data is collected for operational purposes, such as assessing how well an organisation is&nbsp;achieving its intended goals. For example, data is collected on schools' educational&nbsp;attainment to identify schools and subjects where improvements are needed.​</p>",
+    "_id": "63988e3b5c080d0a15af1091",
+    "_parentId": "63988de55c080d0a15af1090",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Course Structure",
+    "displayTitle": "Course Structure",
+    "body": "<p>This course consists of three modules.</p><p><strong>Module 1: Preparing for your data collection</strong></p><p>This module will cover:</p><ul><li><p>An introduction to data collection​</p></li><li><p>Agile Delivery​</p></li><li><p>User-centred&nbsp;design​</p></li><li><p>Accessibility and Inclusivity​</p></li><li><p>Ethics in data collection​</p></li><li><p>Research planning</p></li></ul><p><strong>Module 2: Survey development and testing</strong></p><p>This module will cover:</p><p>This Module will begin to introduce how to design your data collection&nbsp;tool. Included in this module is:​</p><ul><li><p>Survey design​</p></li><li><p>Methods and Modes​</p></li><li><p>Quantitative testing approaches​</p></li></ul><p>This module will&nbsp;not&nbsp;cover:​</p><ul><li><p>Sample design and estimation​</p></li><li><p>For training and guidance on this, please visit the&nbsp;<a href=\"https://analysisfunction.civilservice.gov.uk/training-courses/?keyword=&amp;training_category=&amp;type=&amp;participation=&amp;provider=&amp;training_location=&amp;submit=Go\" rel=\"noreferrer\" target=\"_blank\">Analysis&nbsp;</a><a href=\"https://analysisfunction.civilservice.gov.uk/training-courses/?keyword=&amp;training_category=&amp;type=&amp;participation=&amp;provider=&amp;training_location=&amp;submit=Go\" rel=\"noreferrer\" target=\"_blank\">Function website&nbsp;</a></p></li></ul><p><strong>Module 3: Qualitative research methods and analysis</strong></p><p>This module will cover:</p><ul><li><p>Qualitative sampling and recruitment​</p></li><li><p>Qualitative research methods​</p></li><li><p>Qualitative reporting and analysis</p></li></ul><p><u><em><strong>The current course covers Module 1 only. For the following modules, please go to Data Collection Fundamentals 2 and 3.</strong></em></u></p>",
+    "_id": "639898335c080d0a15af1095",
+    "_parentId": "6398981f5c080d0a15af1094",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to know which approach to take​",
+    "displayTitle": " ",
+    "body": "<p><strong>How to know which approach to take?</strong></p><p>While quantitative research can help you test or confirm a&nbsp;specific hypothesis, qualitative research will explore thoughts,&nbsp;ideas and meaning. The approach you take will depend on what&nbsp;insights you are aiming to get out of the research. For example, it&nbsp;is best to explore personal experiences via qualitative research&nbsp;as you will benefits from the detailed, in-depth insights, which&nbsp;may only be pulled out through conversations.&nbsp;​</p><p>There is also the option of using a mixed-methods approach (combining quantitative and qualitative&nbsp;research). Combining the two methods can give you more in-depth findings, compared to using one method alone. You can&nbsp;find out more about mixed-methods approaches on&nbsp;<a href=\"https://www.gov.uk/guidance/mixed-methods-study#:~:text=A%20mixed%20methods%20study%20combines,with%20more%20in%2Ddepth%20findings.\" rel=\"noreferrer\" target=\"_blank\">GOV.UK</a>​</p>",
+    "_id": "6398995b5c080d0a15af1099",
+    "_parentId": "639899475c080d0a15af1096",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Collection v Acquisition",
+    "displayTitle": "Collection v Acquisition",
+    "body": "<p>Data can either be collected or acquired.&nbsp;​</p><p>Data collection is the process where the researcher collects data to answer a&nbsp;specific question, hypothesis, or business need. Data can be collected through&nbsp;different techniques, such as observations, interviews, focus groups, experiments&nbsp;or surveys. Data can also be collected for non-research purposes, for example, an&nbsp;organisation which collects data about its employees for purposes other than&nbsp;research, such as contact information.​</p><p>Acquiring data is the process of getting data that has already been collected. For&nbsp;example, by accessing publicly available datasets.​</p><p>Before designing your data collection, check that something similar&nbsp;hasn’t&nbsp;been&nbsp;done before. There’s no need to spend time and resource on data&nbsp;collection when&nbsp;you could acquire the data from elsewhere - however, it's important to understand the quality of the data first.​ If you want data that is specific to your purpose, or want control over how it is&nbsp;collected, then you should consider whether it would be beneficial to collect the&nbsp;data yourself rather than acquire the data.</p><p>Whether you collect or acquire your data,&nbsp;it’s&nbsp;good to be aware of&nbsp;the importance of communicating and documenting data quality.&nbsp;This includes how the data&nbsp;was collected and any caveats (i.e.&nbsp;warnings) that may surround your data. An example of a caveat&nbsp;could be that your data is only for England and Wales, rather&nbsp;than the whole of the UK (or wider). Be sure to make potential&nbsp;users aware of any limitations of the data, such as ways in which&nbsp;the data&nbsp;shouldn't&nbsp;be used.&nbsp;Communicating the quality of data&nbsp;helps potential future users to decide&nbsp;whether or not&nbsp;it is&nbsp;fit for&nbsp;their intended purpose.&nbsp;It will&nbsp;also reduce the risk of people using&nbsp;the data for the wrong purposes.&nbsp;</p>",
+    "_id": "6398996c5c080d0a15af109c",
+    "_parentId": "6398996c5c080d0a15af109b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Quality",
+    "displayTitle": "Data Quality",
+    "body": "<p>Poorly designed data collection activities will introduce many risks to the data that&nbsp;you’re&nbsp;collecting. Data quality should be considered at the very beginning of your&nbsp;data collection planning and be embedded throughout the project.&nbsp;​</p><p>Gathering poor quality data means that you&nbsp;won’t&nbsp;be able to truthfully answer your&nbsp;research questions. Poorly designed data collection&nbsp;will negatively affect your data&nbsp;quality as&nbsp;you will&nbsp;likely find inconsistencies, inaccuracies, or a complete lack of&nbsp;data.&nbsp;You will&nbsp;also be running the risk of designing activities that place a lot of&nbsp;burden on to your participants. This can result in little engagement from the&nbsp;participant, which will affect the detail and quality of the information they give you.&nbsp;​</p><p><strong>Think 'Rubbish in = Rubbish out’.</strong> You&nbsp;won’t&nbsp;have quality data that is fit for purpose&nbsp;if you poorly design your data collection. Also bear in mind that the data itself might&nbsp;not be 'rubbish' but may be subject to error. Whilst we try to minimise error as much&nbsp;as possible in research,&nbsp;it is&nbsp;hard to avoid altogether.&nbsp;We will&nbsp;cover error in more&nbsp;detail later in the course.&nbsp;​</p><p>It’s important that anyone conducting data collection activities is adequately trained.&nbsp;Training will equip you with the tools needed to; handle certain situations, be aware&nbsp;of your own biases, facilitate discussions to yield insightful data, and so on.&nbsp;​</p><p>Having a trained interviewer will also make for a better experience for the&nbsp;participant – which is ultimately the main goal.&nbsp;For example, trained&nbsp;interviewers&nbsp;will know techniques to build rapport with participants and establish a&nbsp;comfortable&nbsp;environment.&nbsp;This way, they’re more likely to engage with you, so&nbsp;you're more likely to get the information you need from them.</p><p>&nbsp;</p><p>The&nbsp;<a href=\"https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework\" rel=\"noreferrer\" target=\"_blank\">Government Data Quality Framework</a>&nbsp;includes some useful tools&nbsp;and information on data quality. The framework draws on international&nbsp;and industry best practice and sets out a series of principles, practices&nbsp;and tools aimed at achieving fit for purpose data.&nbsp;​The framework focuses on the quality of the input data, rather than the&nbsp;quality assurance of analytical outputs.&nbsp;​</p><p>With data collection being one of the first stages in the data lifecycle&nbsp;(see image below), it’s essential to get it right from the very&nbsp;beginning. This will help to prevent issues arising further on in the&nbsp;data's journey. Quality should be carefully considered from the very&nbsp;beginning of your research, rather than being an afterthought further&nbsp;down the line.&nbsp;</p>",
+    "_id": "639899865c080d0a15af10a5",
+    "_parentId": "639899855c080d0a15af10a4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Trade-offs",
+    "displayTitle": "Trade-offs",
+    "body": "<p>Trade-offs can be defined as sacrificing one thing&nbsp;in order to&nbsp;get something&nbsp;else that you also desire.&nbsp;​</p><p>Whilst developing based on user needs is important,&nbsp;it would&nbsp;be unrealistic&nbsp;to assume that there are never conflicting needs, or times where&nbsp;researchers may need to make compromises.&nbsp;​</p><p>You&nbsp;won’t&nbsp;always be able to meet every need of every user.&nbsp;It’s&nbsp;the role of&nbsp;the researcher to weigh up&nbsp;all of&nbsp;the needs and decide which are most&nbsp;critical.&nbsp;​</p><p>For example, you may have a tight turnaround on your project which means&nbsp;that you&nbsp;can't&nbsp;conduct as much research (for example, interviews) as&nbsp;you&nbsp;would&nbsp;like. If the deadline is critical and there is no flexibility, then you may&nbsp;have to compromise the amount of research&nbsp;in order to&nbsp;meet this deadline.&nbsp;This is an example of where&nbsp;it's&nbsp;important to communicate the quality of your&nbsp;data and any caveats (for example, documenting that you&nbsp;didn't&nbsp;conduct as&nbsp;many interviews as you initially planned, due to the timeliness of the&nbsp;project).</p>",
+    "_id": "63989b4d5c080d0a15af10ab",
+    "_parentId": "63989b4d5c080d0a15af10aa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary​",
+    "displayTitle": "Summary​",
+    "body": "<ul><li><p>you might not always need to collect data yourself – check if you can&nbsp;acquire the data you need.​</p></li><li><p>the way you collect your data will impact on the quality of the data&nbsp;you get out of it.&nbsp;Remember, rubbish in = rubbish out.​</p></li><li><p>the data may not be of poor quality but may be subject to error due&nbsp;to the nature of the research – be aware of these errors and&nbsp;communicate them to any stakeholders.​</p></li><li><p>researchers will have to make trade-offs where there may be&nbsp;conflicting needs or needs that are difficult to address.​</p></li><li><p>quality should be embedded throughout your data collection&nbsp;activities – not as an afterthought or 'nice to have'.&nbsp;It’s essential to&nbsp;consider data&nbsp;quality from project initiation.</p></li></ul>",
+    "_id": "63989b5c5c080d0a15af10ae",
+    "_parentId": "63989b5c5c080d0a15af10ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is Agile delivery?​",
+    "displayTitle": "What is Agile delivery?​",
+    "body": "<ul><li><p>Agile is an approach or method used for project management and product delivery.&nbsp;​</p></li><li><p>Agile delivery focuses on starting with a vision and developing in an adaptive and incremental way. Development&nbsp;phases are no longer sequential. Instead, they become iterative, incremental and sometimes cyclical. Agile provides&nbsp;flexibility in the development process as it is not pre-defined, linear or fixed as Waterfall delivery.&nbsp;​</p></li><li><p>We can apply Agile methodology to data collection due to its flexible, cyclical nature. This is regardless of whether your&nbsp;team or organisation currently&nbsp;work in Agile. You can find out more about Agile delivery on&nbsp;<a href=\"https://www.gov.uk/service-manual/agile-delivery%E2%80%8B\" rel=\"noreferrer\" target=\"_blank\">GOV.UK.</a>&nbsp;​</p></li></ul><p>Here are some of the differences between Agile and Waterfall delivery:​</p><p>Definitions from&nbsp;<a href=\"https://www.apm.org.uk/resources/find-a-resource/agile-project-management/agile-methods/#:~:text=Agile%20is%20a%20family%20of,throughout%20the%20project%20life%20cycle.\" rel=\"noreferrer\" target=\"_blank\">APM</a>.&nbsp;</p>",
+    "_id": "63989c245c080d0a15af10b2",
+    "_parentId": "63989be95c080d0a15af10b1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Agile vs Waterfall",
+    "displayTitle": "Agile vs Waterfall",
+    "body": "<p>Click on the tiles below for more information</p>",
+    "_id": "6398a0315c080d0a15af10bb",
+    "_parentId": "63989f745c080d0a15af10b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Agile",
+          "src": "course/en/assets/05522260e253f0c0e4fbad6a04de9da56723acb6.png"
+        },
+        "backTitle": "Agile",
+        "backBody": "<p>A family of development methodologies where&nbsp;requirements and solutions are developed iteratively and&nbsp;incrementally throughout the life cycle.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Waterfall",
+          "src": "course/en/assets/cd502ae53fb272195e6fd7e79e7686b832e028dc.png"
+        },
+        "backTitle": "Waterfall​",
+        "backBody": "<p>A lifecycle that aims to complete a project within a single&nbsp;pass through a set&nbsp;of distinct phases that are completed&nbsp;serially and span from the development&nbsp;of the initial&nbsp;concept to the deployment of an ultimate output,&nbsp;outcome or&nbsp;benefits.&nbsp;​</p><p>All phases are sequential.​</p><p>Waterfall is a more traditional method of delivery.&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The differences between traditional and Agile methods​",
+    "displayTitle": "The differences between traditional and Agile methods​",
+    "body": "<ul><li><p>You no longer follow the steps of gathering requirements, planning, designing and&nbsp;building – then test and go live (I.e., 'launch').&nbsp;​</p></li><li><p>Instead, you do these at the same time.&nbsp;​</p></li><li><p>You no longer leave the feedback stage until after development is completed.​</p></li><li><p>Instead, you gather it as you go.&nbsp;​</p></li><li><p>You no longer only have one chance to get it right.&nbsp;​</p></li><li><p>Instead, you can return to earlier stages because you are not following a linear path.</p></li></ul><p>&nbsp;</p><p>The benefits of designing your data collection activities in this way include:​</p><ul><li><p>being able to better react to changes in policy, technology, funding,&nbsp;resources, priorities etc.​</p></li><li><p>avoiding the creation of a product or service that is out of date when&nbsp;it is completed.​</p></li><li><p>focussing on and being driven by user needs. Therefore, it helps to&nbsp;facilitate the creation of user&nbsp;centred products and services.​</p></li><li><p>allowing you to fail fast so you can prevent an issue becoming a&nbsp;long-term problem.&nbsp;You can then&nbsp;iterate your project to address&nbsp;the&nbsp;issue.</p></li></ul>",
+    "_id": "6398a2805c080d0a15af10c2",
+    "_parentId": "6398a27a5c080d0a15af10c1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Agile way of working​",
+    "displayTitle": "Agile way of working​",
+    "body": "<p>Agile uses the following tools and techniques to allow you to efficiently coordinate work, give progress updates, and&nbsp;work&nbsp;collaboratively:​</p><ul><li><p>User stories – sentences which describe what needs to be done to build the service (more on this in the next section)​</p></li><li><p>Backlog – a list of prioritised user stories and tasks to work through&nbsp;​</p></li><li><p>Sprint – where the work is packaged up into sprints and you decide what is worked on next (sprints are usually around&nbsp;two weeks long but you and your team can decide what timeframe works best for you)​</p></li><li><p>Stand-up – a regular team get together to discuss progress and barriers/ issues (these may be daily, weekly etc)​</p></li><li><p>Show and tell – sessions where you share recent work, what you did, what you learned and what is next​</p></li><li><p>Retrospectives – sessions to reflect on what went well and not well in the last sprint or phase of delivery so you can&nbsp;learn as a team​</p></li></ul><p>Note that you may not use all of these tools and techniques – some Agile methods will use a mix of these or may use&nbsp;alternative tools and techniques.&nbsp;</p>",
+    "_id": "6398a2dd5c080d0a15af10c4",
+    "_parentId": "6398a2cc5c080d0a15af10c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Case study: application of Agile to survey design",
+    "displayTitle": "Case study: application of Agile to survey design",
+    "body": "<p>Discovery:&nbsp;​</p><ul><li>learn&nbsp;data user and respondent needs for survey​</li><li>Learn&nbsp;respondent mental models about concepts and topics, language they use etc​</li></ul><p>Alpha:&nbsp;​</p><ul><li>use information from Discovery to inform prototype versions of the questions​</li><li>test prototypes using qualitative and usability methods (if both applicable)​</li><li>iterate&nbsp;and refine designs using results from the testing, test again​</li><li>once evidence show designs are fit for purpose, move on to Beta phase​</li></ul><p>Beta:​</p><ul><li>quantitatively test new questions in a pilot to learn about data quality​</li><li>iterative and refine designs using results from testing​</li><li>go back to Alpha if more research is needed​</li><li>once&nbsp;evidence shows designs are fit for purpose, move to Live​</li></ul><p>Live:​</p><ul><li>launch new survey</li></ul>",
+    "_id": "6398a4d95c080d0a15af10cc",
+    "_parentId": "6398a4d45c080d0a15af10cb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6398a5855c080d0a15af10d3",
+    "_parentId": "6398a57c5c080d0a15af10d2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is UCD?",
+    "displayTitle": "What is UCD?",
+    "body": "<p>User Centred Design (UCD) is&nbsp;a process or set of tools use to develop a product or service with the users' needs&nbsp;at the centre of the design.&nbsp;The UCD approach has its roots in user experience and interface design from the computer technology world (Pacheco, 2019). However, UCD can be applied much wider.&nbsp;&nbsp;</p><p>It is where users (e.g. a respondent) of a service or product (e.g. a survey) are firmly put at the heart of the design process by building to meet their needs. The needs of the user when interacting with a service or product are established through research which focus on exploring their habits, thoughts, questions, behaviours and expectations.&nbsp;Those insights are then used to inform and drive each step of the design of a service or product. Needs based development ensures that the service or product remains user centred and not built based on assumptions.&nbsp;</p><p>Although the needs of the customer (i.e., the data user) are accounted for, they do not drive or influence the design of user experience of the survey and its accompanying products.&nbsp;A service cannot be ‘user centred’ if it is not designed and developed based on user insights and needs. During research and testing phases you should learn about the needs of those who are using your service. To quote from GOV.UK (2017) “if you do not understand who they are or what they need from your service, you can’t build the right thing”.</p>",
+    "_id": "6399e8a35c080d0a15af10da",
+    "_parentId": "6399e87d5c080d0a15af10d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Customer/ sponsor needs",
+    "displayTitle": "Customer/ sponsor needs",
+    "body": "<p>Before designing in a user centred way, we must understand more about the information or data collected by the service or product, i.e., we must understand the customer or sponsor needs (also referred to as 'requirements'). For example, the collection of information from care homes on bed capacity – you will need to learn from the customer, what they need and how they will use the data before designing the data collection form.&nbsp;</p><p>We gather information from the customer or sponsor to learn about:</p><p>• the purpose of the service or product&nbsp;</p><p>• how they intend to use the information or data from the service or product</p><p>Once this is clear, this information can then be used to inform the design of the content of the service or product in conjunction with the needs of those who will interact with and use the service or product, i.e. the ‘user’ needs. User needs are established through user research and social research activities&nbsp;&nbsp;</p><p>Although the user needs drive the overall design of the service, we must first know the purpose of the service and why the information or data is needed. These insights come from the customer or sponsor of the service and they should be engaged with at every step of the delivery.</p><p>Failing to establish your customer or sponsor needs could&nbsp;mean that you develop a product or service which&nbsp;is not what the customer needs.</p><p>Establishing these needs can also be beneficial to the customer or sponsor. For example, there may be ambiguities&nbsp;within the details of the requirement that haven't yet been realised by the customer or sponsors. By going through the plan in fine detail, this&nbsp;can&nbsp;help them to understand and identify what it is they are trying to achieve.&nbsp;</p><p>&nbsp;</p><p>Establish the following customer needs/ requirements:</p><p>• Who wants the data / who is the audience? (I.e., your customer)&nbsp;</p><p>• What do they want? (e.g., do they know what data they want and in what format?)&nbsp;</p><p>• Why do they want it? (e.g., will the data help them design a service, or be used to inform policy?)&nbsp;</p><p>• When do they want it and how often? (is this timeframe realistic? Establish what they want and what is feasible, rather than what they want in an ideal world)&nbsp;</p><p>• Where will it be used? (e.g., will the data be published on a website for public use?)</p><p>• Are there alternative data sources already available? (could you acquire rather than collect the data?)&nbsp;</p>",
+    "_id": "6399e8e25c080d0a15af10f0",
+    "_parentId": "6399e8db5c080d0a15af10ef",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "User Mental Models",
+    "displayTitle": "User Mental Models",
+    "body": "<p>To put it simply, a mental model provides an understanding of how someone thinks, feels and then later acts. Ultimately, they help you to understand a user’s thought process which means you can then incorporate that information into your designs. They explain what is going on in someone’s head when you ask them a question about something or ask them to use a service or product. You will use mental models to inform the design of your product or service. When unpicking a mental model, you will learn about:</p><p>• Someone’s understanding of something (for example, a concept or term)</p><p>• What references and experiences they draw upon to reach that understanding</p><p>• The thought process they go through to reach and confirm that conclusion</p><p>• Whether what is provided for them to interact with matches their expectations. For example, do the response options match their expectation? Likewise, does the content of the letter asking them to use a service match their expectations?</p><p>• What the consequences are of content not matching expectations or understanding; this helps to learn about the mental model further</p><p>•What aspects of the content reinforces the matching of expectations or understanding; this helps to reaffirm the mental model.&nbsp;</p><p>• Mental models can be learned, based on experience, exposure and environment. Also, they can be a belief or a personal view rather than fact. You gather these insights through user research and social research activities.&nbsp;&nbsp;</p><p>If you are developing a service with a helpline or support centre then you can also use insights from staff running these centres to provide insights into the mental models of users. This information will then inform the content of the service and product.&nbsp;</p>",
+    "_id": "6399e8ed5c080d0a15af10f6",
+    "_parentId": "6399e8ed5c080d0a15af10f5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Service Manual on GOV.UK",
+    "displayTitle": "Service Manual on GOV.UK",
+    "body": "<p>The&nbsp;<a href=\"https://www.gov.uk/service-manual\">Service Manual</a>&nbsp;can be used to help design your product or service in a user centred way. You should explore the manual&nbsp;before beginning to create or transform your service or product.&nbsp;</p><p>This resource is intended to support UK government teams create and run digital services according to their Digital Service Standard. Although, the principles can be applied much wider.&nbsp;It covers Accessibility and assisted digital, Agile delivery, Design, Measuring success, Service assessments and getting on GOV.UK, Technology, The team, and User research.</p><p>Included in the Service Manual, is the Service Standard. The Service Standard provides fourteen principles of building a good service. These principles should be considered when designing your data collection activities.&nbsp;</p><p>1. Understand users and their needs</p><p>2. Solve a whole problem for users</p><p>3. Provide a joined up experience across all channels</p><p>4. Make the service simple to use</p><p>5. Make sure everyone can use the service</p><p>6. Have a multidisciplinary team</p><p>7. Use agile ways of working</p><p>8. Iterate and improve frequently</p><p>9. Create a secure service which protects users’ privacy</p><p>10. Define what success looks like and publish performance data</p><p>11. Choose the right tools and technology</p><p>12. Make new source code open</p><p>13. Use and contribute to open standards, common components and patterns</p><p>14. Operate a reliable service</p><p>&nbsp;</p><p>To explore each point in more detail, visit the <a href=\"https://www.gov.uk/service-manual/service-standard\">Service Standard&nbsp;on GOV.UK</a>.</p><p>&nbsp;</p>",
+    "_id": "6399eb515c080d0a15af10fe",
+    "_parentId": "6399eb4b5c080d0a15af10fd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Government Design Principles ",
+    "displayTitle": "Government Design Principles ",
+    "body": "<p>There are also Government Design Principles, which anyone designing and delivering a user centred product or service should follow. There are 10 principles.</p>",
+    "_id": "6399ebc55c080d0a15af1101",
+    "_parentId": "6399eb875c080d0a15af10ff",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Image listing the 10 government design principles",
+      "large": "course/en/assets/57d238f89ddc3c5eccafcbe6f54612305a3ec436.jpg",
+      "small": "course/en/assets/57d238f89ddc3c5eccafcbe6f54612305a3ec436.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary of user-centred design",
+    "displayTitle": "Summary of user-centred design",
+    "body": "<p>• before developing data collection activities, we first need to know the needs of the customer. That is, why they need the data from a service or product, and how they intend to use that data.</p><p>• during research and testing phases, we also need to know the needs of those who will be using your service or product (i.e., respondents or participants).&nbsp;</p><p>• failing to apply a user centred design approach could lead to distorted and misleading insights, and ultimately, could end in&nbsp;designing a product or service which is not fit for purpose</p><p>• utilise the Service Manual and Government Design Principles on GOV.UK when designing your data collection activities</p>",
+    "_id": "6399ec3e5c080d0a15af1106",
+    "_parentId": "6399ec385c080d0a15af1105",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Navigation",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "6399ec635c080d0a15af110a",
+    "_parentId": "6399ec5b5c080d0a15af1109",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Task",
+    "displayTitle": "Task",
+    "body": "<p>Read the following question and write down all the things you think about whilst reaching your answer.</p><p><strong>How many rooms are there in the place where you live?</strong></p><p>That list of considerations is your mental model for that topic.&nbsp;</p>",
+    "_id": "6399ed375c080d0a15af110c",
+    "_parentId": "6399ed135c080d0a15af110b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Ask the same question to another person",
+        "body": "<p>•Did you both include a hallway?</p><p>•What about any porches, garages or conservatories?</p><p>•How did you each class any open plan living space?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are inclusivity and accessibility?",
+    "displayTitle": "What are inclusivity and accessibility?",
+    "body": "<p>‘Inclusive design’ represents the diverse needs of a population and uses insights from people with a range of perspectives throughout the development to inform the final product (e.g., to inform&nbsp;survey or interview questions).&nbsp;</p><p>Inclusivity should be thought about from the start of the design process and should not be an afterthought or ‘nice-to-have’. In the UK one in five people have a disability <a href=\"https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps\">(GOV.UK, 2014) </a>and if we do not design inclusively then we risk excluding certain groups in society from using a service.&nbsp;</p><p>Understanding inclusivity and designing inclusively means we can build products and services that work for everyone, whatever their background or access needs. For example, if a survey was not designed to be accessible for those using assistive technologies then those respondents would not be able to take part. This would mean that they would not be represented in the data and the study findings would not be fully representative of society. We must remember when creating services that, <a href=\"https://www.gov.uk/guidance/government-design-principles\">‘This is for everyone’.</a><a href=\"https://www.gov.uk/guidance/government-design-principles\">&nbsp;</a></p><p>Inclusive design is not just about digital products, it can be applied much wider. Your approach should be based on the standards available to us at the time. Information on how to design inclusively is rapidly evolving so it is important to keep abreast of the changes to ensure that we meet the needs of the people using the service.&nbsp;</p>",
+    "_id": "6399efc25c080d0a15af1110",
+    "_parentId": "6399ef875c080d0a15af110f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Accessibility Laws to be aware of:",
+    "displayTitle": "Accessibility Laws to be aware of:",
+    "body": "<p>• accessibility is a part of several laws and standards we must follow. Each of the standards feed into the&nbsp;<u><a href=\"https://www.gov.uk/guidance/equality-act-2010-guidance\">Equality Act 2010</a></u>&nbsp;and the&nbsp;<u><a href=\"https://www.gov.uk/government/publications/public-sector-equality-duty\">Public Sector Equality Duty</a></u>.</p><p>• if you are building anything which runs in a browser, you will need to meet the&nbsp;<u><a href=\"https://accessibility-manual.dwp.gov.uk/accessibility-law/the-public-sector-bodies-accessibility-regulations-2018\">Public Sector Bodies Accessibility Regulations 2018</a></u>.</p><p>• if&nbsp;you are procuring hardware or software you will need to meet the&nbsp;<u><a href=\"https://accessibility-manual.dwp.gov.uk/accessibility-law/en301549-accessibility-requirements-for-ict-products-and-services\">EN 301 549 Accessibility Requirements for ICT products and services</a></u>.</p><p>• if&nbsp;you are working to the GOV.UK Service Standard you will also need to meet the&nbsp;<u><a href=\"https://accessibility-manual.dwp.gov.uk/accessibility-law/accessibility-regulations-vs-the-govuk-service-standard\">Government Accessibility Requirements</a></u>.</p><p>• the Web Content Accessibility Guidelines (<a href=\"https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines\">WCAG</a>) are a list of criteria your website or mobile application need to meet in order to be legally compliant.</p>",
+    "_id": "6399efde5c080d0a15af1112",
+    "_parentId": "6399efd95c080d0a15af1111",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Inclusive research and development practices",
+    "displayTitle": "Inclusive research and development practices",
+    "body": "<p>It is important to bring people with additional needs, disabilities and diversity into your research and product or service development. Below are some ways to achieve this:</p><p>· subcontract the recruitment of research participants. For example, there are companies that specialise in recruiting people to take part in research and they strive for diversity in their samples.&nbsp;</p><p>· subcontract the testing of your products to companies who specialise in providing accessibility testing services. For example, there are companies that employ staff with additional needs and disabilities as product testers. They test digital and non-digital content for other organisations to check whether they meet accessibility guidelines and provide a recommendations report.&nbsp;</p><p>· tailored recruitment adverts on public platforms and recruitment through gatekeepers (for example, charities).&nbsp;</p><p>· you may consider recruiting and testing in multiple ways to allow for a greater breadth&nbsp;of participant types. A recruitment matrix can be used to track this&nbsp;(more on recruitment matrixes later in the course).</p>",
+    "_id": "6399f0045c080d0a15af1114",
+    "_parentId": "6399effa5c080d0a15af1113",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Create using appropriate tone, readability and language",
+    "displayTitle": "Create using appropriate tone, readability and language",
+    "body": "",
+    "_id": "6399f0275c080d0a15af1116",
+    "_parentId": "6399f0235c080d0a15af1115",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Tone",
+        "body": "<p>This is all about how we come across to people when communicating with them. Getting tone right can be challenging and depends on several factors, for example, the organisation may have a predefined tone of voice which you have to design with. When we stray from the public’s expectations of tone this may lead people to have concerns about legitimacy and authenticity which can alienate people from the service.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Readability",
+        "body": "<p>This is about how easy or difficult it is for your audience to understand the content that you provide them to interact with. Often certain terms may be insisted upon as they align with a policy definition, for example. However, these terms are rarely understood by or familiar to the public. Consequently, any misunderstanding that occurs risks alienating people from your product or service. We recommend that you create content that meets the reading age of the UK which is 9 years old. You can use readability scorers to help achieve this.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Language ",
+        "body": "<p>Through research with the public we can learn about the language that they use to describe their circumstances and interests. A mismatch in communication style can result in content that is unrelatable, superfluous and confusing for the people. To overcome this and to become more respondent centred, use&nbsp;language that the people use during research sessions in your content. This will create a more inclusive product. The use of formal language can be off-putting for some groups as it can make them feel like they are not reflected or represented in the service which can discourage them from using it.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p>Below are some tips to consider when designing inclusively (Pun, 2016).&nbsp;</p><p>&nbsp;</p><p>• autistic spectrum: Use plain English, simple sentences, descriptive buttons and simple layout</p><p>• assistive technologies (i.e. screen readers): Build for keyboard use, descriptive headers and buttons and one question per page</p><p>• low vision: Minimum font size 12, good contrast ratios, use consistent use of colour and shape for actions, clear layout, contextual placement of buttons and help&nbsp;</p><p>• dyslexia: Left align text, avoid use of columns, use imagery to support text</p><p>• physical or motor disabilities: Use large buttons, leave appropriate spacing and provide shortcuts</p><p>• deaf or hard of hearing: Use plain language and logical flow or layout</p><p>• anxiety: Explain the steps in the process, help them to prepare, provide support and make information clear.</p><p>• avoid use of localised and regionalised words or phrases:&nbsp;Using conversational content has limits as the use of localised or regionalised words and phrases may create barriers to comprehension, especially for people where the language of the country they reside in is not their native or first language. It may not also match peoples expectations to see that in a government service, for example.</p><p>• avoid use of contractions:&nbsp;Although contractions make the content appear more conversational, the use of punctuation can be a barrier for people with low literacy and English as second language.&nbsp;</p><p>• short sentences:&nbsp;To increase the readability of content aim to limit sentences to 60 to 70 characters.</p>",
+    "_id": "6399f0d75c080d0a15af111a",
+    "_parentId": "6399f0d25c080d0a15af1119",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary of accessibility and inclusivity",
+    "displayTitle": "Summary of accessibility and inclusivity",
+    "body": "<p>• inclusivity and accessibility should be thought about from the start of the design process</p><p>• creating inclusive and accessible products and services allows you to generate insights that are representative of your target population</p><p>• make sure you create content using appropriate tone, readability and language</p><p>• create content that meets the reading age of the UK, by using simple terms and avoiding formal language whenever possible</p>",
+    "_id": "6399f0f75c080d0a15af111c",
+    "_parentId": "6399f0ee5c080d0a15af111b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "nAVIGATION",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6399f1ed5c080d0a15af111f",
+    "_parentId": "6399f1e25c080d0a15af111e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "There are several basic principles of ethically sound research",
+    "displayTitle": "There are several basic principles of ethically sound research",
+    "body": "<p>We will look at each of these in more detail throughout this section, but the core principles are:</p><p>• participants should give informed consent, the right to refuse to take part and the right to withdraw. This should be clearly communicated to participants.</p><p>• deception of participants such as covert observation or giving false information about the purpose for the data collection should be avoided.&nbsp;</p><p>• the privacy of participants should be protected.</p><p>• participant confidentiality should be maintained.</p><p>• wellbeing of participants should be ensured .</p><p>• data collection and interpretation should be as accurate as possible.</p><p>• the relation between research benefits and participant burden should be considered.</p>",
+    "_id": "639b023c5c080d0a15af1123",
+    "_parentId": "639af55c5c080d0a15af1122",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Bias in qualitative research",
+    "displayTitle": "Bias in qualitative research",
+    "body": "<p>Bias refers to a systematic error, where the particular research finding deviates from the ‘true’ finding.</p><p>Bias can be introduced at different stages of the research, for example during sampling or interviewing. It's important to be aware of, and try to minimise, any potential bias as much as possible, as it is unethical to conduct biased research.&nbsp;</p><p>The researcher will have a big impact on the quality of the data that's collected. In qualitative research, the researcher is part of the process, and all researchers are different, which introduces a ‘human factor’.&nbsp; Some biases that the researcher introduces are unavoidable e.g.,&nbsp;age, gender etc, but others can be reduced. For example, personal beliefs, facial expressions, language used by the researcher, tone of voice can all lead to bias, but can also be reduced by having a well-trained researcher.&nbsp;</p><p>Bias can result from many different things – the participant changing their behaviour due to being observed (Hawthorne effect), participants wanting to present themselves in a 'favourable' fashion (social desirability bias), leading or unbalanced questioning from the researcher, the researcher interpreting the data to support their&nbsp;hypothesis (confirmation bias) - just to name a few. We will talk more about different biases throughout the course.&nbsp;</p>",
+    "_id": "639b02915c080d0a15af1137",
+    "_parentId": "639b02915c080d0a15af1136",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary of ethics",
+    "displayTitle": "Summary of ethics",
+    "body": "<p>• ethics should carefully be considered at the start and throughout your data collection.</p><p>• ensure participant privacy is respected and confidentiality assured.</p><p>• ensure the wellbeing of your participants.</p><p>• provide enough information about your research so participants can make an informed decision and consent to take part.</p><p>• ensure any personal data collected complies to GDPR.</p><p>• familiarise yourself with the relevant safeguarding policies and procedures.</p><p>• organisations need procedures in place to ensure the wellbeing of researchers, both physically and mentally.&nbsp;</p><p>• be aware of any potential bias in your research</p>",
+    "_id": "639b03d75c080d0a15af113e",
+    "_parentId": "639b03d15c080d0a15af113d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "_id": "639b03f55c080d0a15af1141",
+    "_parentId": "639b03ef5c080d0a15af1140",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Deciding on features of your research",
+    "displayTitle": "Deciding on features of your research",
+    "body": "<p>Once you have considered your research aims you can begin to consider how you will explore them. This will include:&nbsp;</p><p>• how will you gather evidence and information? For example, the most appropriate type of research, e.g.,&nbsp;in-depth interviews, focus groups etc and whether these will be online or in-person – we will give an overview of qualitative methods later in the course.</p><p>• what do you need to learn to be able to meet your research aims?&nbsp;</p><p>• will you need any additional materials or technology during your research? For example, mobiles, tablets or laptops.</p>",
+    "_id": "639b04855c080d0a15af1148",
+    "_parentId": "639b04845c080d0a15af1147",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data collection communications",
+    "displayTitle": "Data collection communications",
+    "body": "<p>When planning your research, you will also start thinking about your data collection communication strategy.</p><p><strong>What is a data collection communication strategy?&nbsp;</strong></p><p>A data collection communication strategy is a tailored, objective-driven and persuasive document that:</p><p>• communicates to the user the reason why data is collected and its intended use</p><p>• motivates and facilitates users compliance with the data collection request</p><p>• communicates related instructions and procedures</p><p>• is designed based on your users and their needs</p><p>A data collection communication strategy should contain a coherent plan of communication measures, activities and actions for the user.&nbsp;</p><p>Data collection communication is important as it gives users the information they need to give timely&nbsp;(where necessary), accurate and complete responses. It can affect both the data quality of their&nbsp;responses and the efficiency of the data collection tool itself. For example, well designed communications can reduce both associated costs and the perceived response burden.&nbsp;</p><p>You will start by defining the objectives of your communication strategy.&nbsp;To do this, you must understand your user needs. This will help you to decide how best to communicate with them and how you can best influence attitudes, behaviours and norms. Consider things such as the average reading age, as this will help to ensure your service is accessible to your users, therefore improving engagement. You must also learn about the needs of the customer of the service, e.g. deadlines, support services etc and ensure they are represented in the communications.&nbsp;</p>",
+    "_id": "639b04955c080d0a15af1151",
+    "_parentId": "639b04955c080d0a15af1150",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Considerations",
+    "displayTitle": "Considerations",
+    "body": "<p>Remember: you should adapt your communications based on user feedback and efficiency. If something isn’t working, redesign it based on the insights you have gathered to ensure it best meets your users’ needs.&nbsp;</p><p><strong>When considering the needs of the users&nbsp;of your communications, you need to think about the following:</strong></p><p><em>Note: not all of the below will be applicable to all research methods</em></p><p>• how you will introduce the data collection: prenotifications, advance letters, envelopes, e-mails, timelines&nbsp;. Consider branding, tone, layout, infographics and so on</p><p>• how you will provide assistance. For example, support via website, FAQs, telephone, email etc. This will help to build a relationship with the user</p><p>• using motivating and facilitation strategies (incentives etc – more on this later)&nbsp;</p><p>• what is required of the user, how much time they will need to dedicate to the request, how their data will be stored, how they give consent,&nbsp;and so on.&nbsp;Giving them this information will help to build trust with them</p><p>• time the contact&nbsp;e.g. think about school holidays or when people may have less time available to take part</p><p>• deal with gatekeepers to your users&nbsp;e.g. if you’re requesting information from children in education, the school would be the gatekeepers</p><p>• following up on those users who don't respond e.g. via reminder letters or emails.&nbsp;</p><p>• consider users who may have additional needs</p><p>&nbsp;</p><p><strong>You will also need to consider the organisational context:</strong></p><p>• involve and inform staff of their role in different stages of the communication process&nbsp;</p><p>• check and plan the use of communication modes, communication design guidelines, ethics and legal&nbsp;guidelines&nbsp;(e.g. GDPR)</p><p>• maintain consistency with other communications strategies (internal consistency within organisation).</p><p>• deal with any system constraints.</p><p>• identify and deal with data quality trade-offs e.g. the timeliness of responses might come at the expense of completeness of the data.</p><p>• identify and potential&nbsp;risks and any mitigating actions.&nbsp;</p>",
+    "_id": "639b049a5c080d0a15af1154",
+    "_parentId": "639b049a5c080d0a15af1153",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary of research planning",
+    "displayTitle": "Summary of research planning",
+    "body": "<p>• before you begin your research, decide on your research aims and establish what activities you will undertake to achieve them. You may find a research grid helpful with this.</p><p>To make sure you have an efficient user centred data collection communication strategy, check you have considered the following:</p><p>• are your objectives clearly defined?</p><p>• did you consider the user’s perspective and contextual factors linked to them?&nbsp;</p><p>• did you consider the organisation’s perspective (data collection/production) and contextual factors linked to them?&nbsp;</p><p>• are your communications consistent and coherent?</p><p>• have you planned your communications in advance with an adaptive design (when the user interface adapts to different screen sizes)&nbsp;enabled for the development, testing and monitoring?&nbsp;</p>",
+    "_id": "639b04ba5c080d0a15af115d",
+    "_parentId": "639b04ba5c080d0a15af115c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Communication strategy",
+    "displayTitle": "Communication strategy",
+    "body": "<p>Use the following methods and principles&nbsp;to develop your communication strategy:</p>",
+    "_id": "639b05a65c080d0a15af1167",
+    "_parentId": "639b04ae5c080d0a15af1156",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Agile delivery",
+        "body": "<p>e.g.,&nbsp;Discovery phase&nbsp;- Typical discovery research activities include desk research, workshops, focus groups with the users and pop-up testing. These insights are used to inform the next stage of research and development; alpha.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "User Centred Design ",
+        "body": "<p>Create user stories and user journeys&nbsp;from the insights you gather and use these to inform the designs and strategy.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Behavioural Insights and other design principles e.g. GOV.UK",
+        "body": "<p>Behavioural insights or ‘nudge theory’ is a psychological technique used to encourage behaviour change and achieve your services goals.&nbsp;There are four key principles that behavioural insights have been identified for use&nbsp;in service design.&nbsp;The aim is to create something that is Easy, Attractive, Social and Timely. These principles have proven to influence behaviour and encourage the target user to complete the intended action in the way that is desired by the initiator.&nbsp; Behavioural insights will help your service to be attractive to users and ensure that it is simple to navigate or complete.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Principle 1: Easy",
+        "body": "<p>•ensure text is clear and simple</p><p>•Avoid complicated language</p><p>•Reduce volume of text and remove clutter</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Principle 2: Attractive",
+        "body": "<p>•Use the right messenger for the audience to add credibility and build in personalisation</p><p>•Use the word ‘you’ to grab attention</p><p>•Give a reason for taking part</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Principle 3: Social",
+        "body": "<p>•Use descriptive social norming&nbsp; – what people actually do versus what they should do</p><p>•Diffusion of responsibility – focus on the importance of their selection and don’t disclose sample sizes</p><p>•Encourage a ‘good mood’ to improve open mindedness e.g. incentives, colours, graphics</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Principles 4: Timely",
+        "body": "<p>•Mention time and cost of incentives as soon as possible</p><p>•temporal decay – reward participation upfront (also making it attractive), describe how long the task will take and ask people to plan the time into their schedule later</p><p>•use the endowment effect, which means that when something is ‘yours’, it has greater worth than the same object belonging to someone else – use this to make the survey and its responses belong to the participant – ‘your responses’ makes them seem valuable</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "NAV",
+    "displayTitle": "",
+    "body": "",
+    "_id": "639b08645c080d0a15af116a",
+    "_parentId": "639b085a5c080d0a15af1169",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phases of Agile Delivery",
+    "displayTitle": "Phases of Agile Delivery",
+    "body": "",
+    "_id": "63a077285c080d0a15af1179",
+    "_parentId": "6398a5cc5c080d0a15af10d5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Discovery",
+        "body": "<ul><li>&nbsp;exploratory phase that aims to gather insights to inform the 'build and test' activities. For example, you might do research with users to identify the language they use. These insights can&nbsp;then be used to inform any questions you ask them, for example, in an interview or in a&nbsp;survey.​</li><li><p>you will&nbsp;begin to understand your customer/ policy/ sponsor/ data user's requirements for&nbsp;the service​</p></li><li><p>you will&nbsp;learn about the service purpose, for example, what&nbsp;it will&nbsp;measure. If working with&nbsp;a pre-existing service,&nbsp;you'll&nbsp;learn what problems or issues are currently being&nbsp;experienced​</p></li><li><p>you will&nbsp;learn the needs of the user at each step in their end-to-end user journey​</p></li><li><p>ensure&nbsp;you have&nbsp;understood the needs of both your user and the customer in this phase</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Alpha",
+        "body": "<ul><li><p>this is where you begin developing and testing new prototypes for the service​</p></li><li><p>the design is informed by insights gathered in discovery​</p></li><li><p>prototypes are iteratively tested in rounds of user research (test, refine, retest)​</p></li><li><p>once approved, the prototypes will be passed on to the next phase – Beta​</p></li><li><p>if, however, you require more insights to progress, you can return to Discovery&nbsp;</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Beta",
+        "body": "<ul><li><p>the new and/ or approved version of your service will be tested at scale to a&nbsp;closed or limited sample​</p></li><li><p>For example, you may run a small-scale survey pilot using the new letters and&nbsp;questionnaire to see&nbsp;how they perform before you go live with them​</p></li><li><p>you can return to Discovery or Alpha if you require more insights before&nbsp;progressing to Live</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Live",
+        "body": "<ul><li><p>once satisfied with the findings from the Beta phase, you can go&nbsp;Live.&nbsp;​</p></li><li><p>you must, however, carry out continuous improvements throughout the life of&nbsp;the&nbsp;service&nbsp;​</p></li><li><p>you can return to the previous phases&nbsp;if you learn that a feature or design is&nbsp;no longer optimal from the continuous improvement&nbsp;activities</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Retirement",
+        "body": "<ul><li><p>the closing down of the service​</p></li><li><p>for example, this may mean turning off the original survey if you&nbsp;have developed a&nbsp;new one in parallel. Or simply that the survey has run its course</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary of Agile",
+    "displayTitle": "Summary of Agile",
+    "body": "<ul><li><p>Agile is an approach or method that provides flexibility in the&nbsp;development process as it is not as linear or fixed as traditional&nbsp;methods​</p></li><li><p>it has main phases: Discovery, Alpha, Beta, Live (and then&nbsp;Retirement)​</p></li><li><p>following the agile principles ensures you design and build your&nbsp;service based on user needs​</p></li><li><p>continuous improvements should be made&nbsp;throughout the&nbsp;lifecycle of the product or service being developed</p></li></ul>",
+    "_id": "63a07d235c080d0a15af1181",
+    "_parentId": "63a07d185c080d0a15af1180",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Image listing the four agile phases in order: discovery, alpha, beta, live",
+      "large": "course/en/assets/9073afb590102ce8532023d9f250561647d5b11b.jpg",
+      "small": "course/en/assets/9073afb590102ce8532023d9f250561647d5b11b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "User needs, stories and journeys",
+    "displayTitle": "User needs, stories and journeys",
+    "body": "<p>User stories and journeys are key tools when designing a service or product. They document the needs and the path that a user will take, respectively.&nbsp;</p><p>Often assumptions are made about these which can result in the wrong&nbsp;thing being built. For example,&nbsp;If researchers make assumptions about respondents' stories and journeys, this&nbsp;can result in a survey that is not relevant or understood by respondents.</p><p>Find out more about establishing user needs on <a href=\"https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs\">GOV.UK</a>.</p>",
+    "_id": "63a07e805c080d0a15af1185",
+    "_parentId": "63a07e755c080d0a15af1184",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "User stories",
+        "body": "<p>A user story is a three-part statement which documents the user needs. The insights that inform the statements are gathered through qualitative research with the public. They are commonly written in the following way, “As a [insert]…I need [insert]…so that [insert]”. For example, a respondent may say, “As a respondent to the survey, I need to know how long it will take, so that I can complete it at a time that is convenient”.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "User journeys",
+        "body": "<p>A user journey documents every step taken and task completed by the user when using your product or service to complete a goal. Documenting each step in the journey will help to identify the barriers and friction points. Once these are identified and understood then they will inform the research plan.</p><p>Find out more about <a href=\"https://www.nngroup.com/articles/journey-mapping-101/\">user journeys</a>.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Navigation",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "63a080b15c080d0a15af1189",
+    "_parentId": "63a080a05c080d0a15af1188",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Design principles",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "63a082965c080d0a15af118b",
+    "_parentId": "63a0827f5c080d0a15af118a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1. Start with user needs",
+        "body": "<p>Service design starts with identifying user needs. If you don’t know what the user needs are, you won’t build the right thing. Do research, analyse data, talk to users. Don’t make assumptions. Have empathy for users and remember that what they ask for isn’t always what they need.&nbsp;For instance,&nbsp;if asked how users want to travel to work, they might respond 'via helicopter'. A car may achieve the same results&nbsp;however, at significantly less cost! Just because a user would&nbsp;like&nbsp;something to be a certain way, doesn't indicate that it&nbsp;needs&nbsp;to be&nbsp;that way.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Do less",
+        "body": "<p>Government should only do what only government can do. If we’ve found a way of doing something that works, we should make it reusable and shareable instead of reinventing the wheel every time. This means building platforms and registers others can build upon, providing resources (like APIs) that others can use, and linking to the work of others. We should concentrate on the irreducible core.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Design with data",
+        "body": "<p>In most cases, we can learn from real world behaviour by looking at how existing services are used. Let data drive decision-making, not hunches or guesswork. Keep doing that after taking your service live, prototyping and testing with users then iterating in response. Analytics should be built-in, always on and easy to read. They’re an essential tool.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4. Do the hard work to make it simple",
+        "body": "<p>Making something look simple is easy. Making something simple to use is much harder - especially when the underlying systems are complex - but that’s what we should be doing. Don’t take “It’s always been that way” for an answer. It’s usually more and harder work to make things simple, but it’s the right thing to do.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "5. Iterate. Then iterate again",
+        "body": "<p>The best way to build good services is to start small and iterate wildly. Release minimum viable products early, test them with actual users, move from alpha to beta to live adding features, deleting things that don’t work and making refinements based on feedback. Iteration reduces risk. It makes big failures unlikely and turns small failures into lessons. If a prototype isn’t working, don’t be afraid to scrap it and start again.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "6. This is for everyone",
+        "body": "<p>Accessible design is good design. Everything we build should be as inclusive, legible and readable as possible. If we have to sacrifice elegance - so be it. We’re building for needs, not audiences. We’re designing for the whole country, not just the ones who are used to using the web. The people who most need our services are often the people who find them hardest to use. Let’s think about those people from the start. We will talk more about Inclusivity and Accessibility in the next section of the course.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "7. Understand context",
+        "body": "<p>We’re not designing for a&nbsp;screen,&nbsp;we’re designing for people. We need to think hard about the context in which they’re using our services.&nbsp;Are they in a library? Are they on a phone? Are they only&nbsp;really familiar&nbsp;with Facebook? Have they never used the web before?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "8. Build digital services, not websites",
+        "body": "<p>A service is something that helps people to do something. Our job is to uncover user&nbsp;needs, and&nbsp;build the service that meets those&nbsp;needs.&nbsp;Of course&nbsp;much of that will be pages on the web, but&nbsp;we’re&nbsp;not here to build websites. The digital world&nbsp;has to&nbsp;connect to the&nbsp;real world, so&nbsp;we&nbsp;have to&nbsp;think about all aspects of a service, and make sure they add up to something that meets user needs.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "9. Be consistent, not uniform",
+        "body": "<p>We should use the same language and the same design patterns wherever possible. This helps people get familiar with our services, but when this isn’t possible we should make sure our approach is consistent. This isn’t a straitjacket or a rule book. Every circumstance is different. When we find patterns that work we should share them, and talk about why we use them. But that shouldn’t stop us from improving or changing them in the future when we find better ways of doing things or the needs of users change.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "10. Make things open: it makes things better",
+        "body": "<p>We should share what we’re doing whenever we can. With colleagues, with users, with the world. Share code, share designs, share ideas, share intentions, share failures. The more eyes there are on a service the better it gets - howlers are spotted, better alternatives are pointed out, the bar is raised. Much of what we’re doing is only possible because of open source code and the generosity of the web design community. We should pay that back.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Qualitative vs Quantitative data collection",
+    "displayTitle": "Qualitative vs Quantitative data collection",
+    "body": "",
+    "_id": "63a0866c5c080d0a15af118e",
+    "_parentId": "63a086675c080d0a15af118d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Qualitative",
+        "body": "<p>Qualitative research may stand alone or be used in conjunction with quantitative research. It&nbsp;aims to provide an in-depth understanding of the world as seen through the eyes of the&nbsp;people being studied. The aim is to explain the 'why' behind the data.​</p><p>Qualitative research is often used to understand people's beliefs, experiences, attitudes,&nbsp;and behaviours.&nbsp;It&nbsp;is a creative and interpretive style of research which yields non-numerical&nbsp;data. The sampling is often purposive - a non-probability sample that is selected based on&nbsp;characteristics of a population and the objective of the study. This can mean that the sample&nbsp;isn't&nbsp;as diverse as possible. Often, the sample size is small, meaning&nbsp;you&nbsp;cannot&nbsp;always&nbsp;generalise the findings to other populations, or other individuals&nbsp;within the same population.​</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Quantitative",
+        "body": "<p>Quantitative research implies a measurement or numerical approach.&nbsp; The&nbsp;methodology is based on the testing of a hypothesis, with the aim of testing causal&nbsp;relationships or making predictions. The nature of quantitative research often allows for&nbsp;larger sample sizes than qualitative research, meaning the results can often be generalised&nbsp;to wider populations.&nbsp;​</p><p>Quantitative research, however,&nbsp;doesn't&nbsp;give you the&nbsp;in-depth&nbsp;information, such as&nbsp;explanations behind the data which can provide valuable insights.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Uses of qualitative research",
+    "displayTitle": "Uses of qualitative research",
+    "body": "<p>Qualitative data collection activities can be used for multiple purposes. They may&nbsp;be used&nbsp;in their own right i.e., as a method to investigate specific research&nbsp;questions to inform policies, for example. They can also be used to support&nbsp;quantitative data collection.&nbsp;A common qualitative method used to support&nbsp;quantitative data collection is cognitive interviewing (we will&nbsp;talk more about this&nbsp;later).&nbsp;​</p><p>This means that your data collection&nbsp;doesn’t&nbsp;need to be either&nbsp;qualitative&nbsp;or&nbsp;quantitative&nbsp;– it can be a mixed methods approach, combining elements of both.</p>",
+    "_id": "63a086ea5c080d0a15af1190",
+    "_parentId": "63a086e25c080d0a15af118f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "An example",
+        "body": "<p>Cognitive interviewing can be used to check the understanding of survey&nbsp;questions. It can be used to help us better understand respondents' thought&nbsp;processes when responding to the question, as&nbsp;well as checking the language&nbsp;used in the questions&nbsp;is understood as the researcher intends it to be.&nbsp;This can&nbsp;help to pick up on any issues early so that any necessary changes can be made&nbsp;before the survey goes live. Without checking this understanding, you could go live&nbsp;with a survey and not realise that respondents are interpreting a question in a&nbsp;different way than is intended, or that they&nbsp;don’t&nbsp;understand the terminology&nbsp;you’ve&nbsp;used. This will negatively impact on your data quality as it introduces the risk of&nbsp;respondents giving inaccurate or invalid responses – or no response at all. Testing&nbsp;your questions in advance will help to mitigate against this.&nbsp;&nbsp;​</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "63a08c755c080d0a15af1197",
+    "_parentId": "63a08c715c080d0a15af1196",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Informed Consent",
+        "body": "<p>It is important that participants have given informed consent to take&nbsp;part in your research and data collection. You should provide&nbsp;information about your research to the participant(s) so that they can&nbsp;make an informed decision as to whether they want to take part.&nbsp;Consent can be counted as informed when a participant has the&nbsp;sufficient information for you to assume they understand what taking&nbsp;part includes. You should look to seek consent from a participant&nbsp;before any data collection has taken place with them. Consent can be&nbsp;written or verbal.​</p><p>Find out more about <a href=\"https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research\">informed consent.</a>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "GDPR",
+        "body": "<ul><li><p>the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act&nbsp;2018 together determine how, when and why any organisation can process personal&nbsp;data.&nbsp;​</p></li><li><p>personal data must be collected and processed in line with the GDPR 2016 and the&nbsp;Data Protection Act 2018.&nbsp;​</p></li><li><p>all individuals involved in the data collection and wider project have the responsibility to&nbsp;keep all participant data confidential.​</p></li><li><p>once you have collected the data you will need to consider how and where the data will&nbsp;be stored and who will have access to it, in order to maintain confidentiality.&nbsp;​</p></li><li><p>You should make sure that your data is truly anonymous throughout the project lifecycle&nbsp;where possible, and that no participant can be individually identified in any research&nbsp;output.&nbsp;</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disclosure",
+        "body": "<ul><li><p>your data collection method may also involve the disclosure of&nbsp;potentially sensitive information, whether this was intended or not.&nbsp;&nbsp;​</p></li><li><p>you should look to avoid unintentional disclosure, for example&nbsp;ensuring your data collection method cannot be overheard. You&nbsp;should conduct your fieldwork in a private location and only ask&nbsp;questions that are in scope of the research.​</p></li><li><p>you should have the necessary safeguarding procedures in place for&nbsp;dealing with abuse, harm to self or others or suicide ideation&nbsp;disclosure.</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Avoiding harm",
+        "body": "<ul><li><p>participants taking part in your research should not suffer any harm, risk or&nbsp;disadvantage.&nbsp;​</p></li><li><p>harm can be defined as any threat, or potential threat, to physical, social&nbsp;and psychological wellbeing.&nbsp;​</p></li><li><p>You need to consider any potential harmful consequences as a result of&nbsp;your data collection.&nbsp;​</p></li><li><p>the potential for harm can be emotional, physical or financial.&nbsp;​</p></li><li><p>you should consider the probability or likelihood of harm to occur through&nbsp;your data collection and severity of harm, should there be any.&nbsp;​</p></li><li><p>you should then look at the potential for causing harm and how to avoid it,&nbsp;whilst assessing this against the benefit of conducing the research.&nbsp;</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sensitive topics",
+        "body": "<ul><li><p>special consideration may be needed around data collection and sensitive topics. As a researcher&nbsp;you can:​</p></li><li><p>learn about the subject matter you are researching​</p></li><li><p>think about the location and the implications this could have on both researcher and participant&nbsp;safety​</p></li><li><p>build a rapport with participants​</p></li><li><p>consider cutting a session short if a respondent is in distress​</p></li><li><p>make sure respondents understand that they do not have to give an answer to a question and can&nbsp;withdraw at any time without needing to give a reason​</p></li><li><p>offer breaks and remind participants they can stop at any point&nbsp;​</p></li><li><p>use visual aids such as traffic light cards, for participants to indicate when they would like to stop or&nbsp;take a break without the need to verbalise this&nbsp;​</p></li><li><p>include debriefing information with relevant signposting for support or organisations​</p></li><li><p>offer the option to have a support worker, family or friend present​</p></li><li><p>consider offering access to alternative modes for individuals to make a decision on how to&nbsp;participate.&nbsp;</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Researcher safety",
+        "body": "<p>It is also important to keep researchers safe, both physically and mentally. Organisations&nbsp;have a responsibility for the welfare of their staff. Organisations must ensure:​</p><ul><li><p>researchers are well prepared for data collection fieldwork​</p></li><li><p>researchers have the appropriate knowledge and are well trained in the chosen&nbsp;methodological approaches​</p></li><li><p>the appropriate disclosure and safeguarding protocols&nbsp;are in place​</p></li><li><p>researchers can report sensitive subjects in an appropriate way​</p></li><li><p>researchers have access to the appropriate support&nbsp;​</p></li><li><p>a buddy system is in place for researchers so that there's someone&nbsp;to call should an&nbsp;interview go wrong​</p></li><li><p>researchers are briefed on how to end an interview should a participant become abusive​</p></li><li><p>researchers have the opportunity to undertake a safeguarding or mental health first aid&nbsp;course​</p></li><li><p>researchers have the opportunity to role play interviews in work beforehand and receive&nbsp;feedback​</p></li><li><p>researchers have undertaken the appropriate employment checks, such as Disclosure and&nbsp;Barring Services (DBS).&nbsp;</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Example",
+    "body": "",
+    "_id": "63a08ed25c080d0a15af1199",
+    "_parentId": "63a08ece5c080d0a15af1198",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Social Survey example",
+        "body": "<p><u><a href=\"https://gss.civilservice.gov.uk/policy-store/respondent-engagement-for-push-to-web-social-surveys/\">A respondent’s journey</a></u><u>:</u></p><p>• the respondent will need to open the letter, read it, go to website and complete the survey, and even return for a subsequent wave for longitudinal studies&nbsp;</p><p>• consider branding, tone, infographics, layout for contact letters and any other form of initial communications. Understand your respondents and adapt your communication accordingly.&nbsp;&nbsp;</p><p>• use the behavioural insights framework&nbsp;to establish do’s and don’ts for materials you use in your data collection activities.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Research grids",
+    "displayTitle": "Research grids",
+    "body": "<p>Before starting your research, you need to know what your research aims are and what activities you should undertake to achieve them. You can consider this using a research grid. Read more on <a href=\"https://measuringu.com/research-grid/\">how to develop a research grid</a>.</p><p>A research grid will help you in several ways:&nbsp;</p>",
+    "_id": "63a08fad5c080d0a15af119b",
+    "_parentId": "63a08fa95c080d0a15af119a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Prioritising aims and activities",
+        "body": "<p>Sometimes it is difficult to separate the ‘critical’ and ‘nice to have’ elements of your product or service. This will be important to understand, especially if you have limited resources or budget. The grid will also help you to consider how one activity may affect another, and if a specific order would be more beneficial.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Communicating and planning",
+        "body": "<p>The grid shows a visual description of all the research activities required to achieve your objective. It is a good tool to use when explaining the project to stakeholders and other interested parties.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Logistics",
+        "body": "<p>The grid allows a forward look at activities which are coming up. It assists resource and work planning&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Scope creep",
+        "body": "<p>The grid allows you to identify, and remove, research questions which are less important to the overall project. It can also assist you to see the scope of each research aim and associated activity&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Backlogs",
+        "body": "<p>The grid can act as a ‘check in’ to ensure that focus remains on the right aims and activities. When research suggests additional steps are required, it can be updated accordingly. It can also show ‘out of scope’ research aims which can be returned to and reconsidered at a later date&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": " ",
+    "body": "<p>In this module, we covered:</p><p>• an introduction to data collection – what is it and how can it be used?&nbsp;</p><p>• agile Delivery – remember the importance of reiteration and flexible design</p><p>• user-centred design – always design with your users at the heart of this design</p><p>• accessibility&nbsp;and Inclusivity – your service must be inclusive and accessible to all – ensure you're adhering to the relevant guidelines</p><p>• ethics in data collection – be aware of different ethical issues that may arise, and use this to aid your decision making</p><p>• planning data collection – using research grids to help establish your research aims and planning your data communication strategy</p><p>&nbsp;</p>",
+    "_id": "63a091085c080d0a15af119f",
+    "_parentId": "63a090e05c080d0a15af119e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "navigation",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "63a091855c080d0a15af11a4",
+    "_parentId": "63a0917c5c080d0a15af11a3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Further reading and resources",
+    "displayTitle": "Further reading and resources",
+    "body": "<p><strong>Agile</strong></p><ul><li><p>GOV-UK Service Manual, Agile delivery&nbsp;<a href=\"https://www.gov.uk/service-manual/agile-delivery\" rel=\"noreferrer\" target=\"_blank\">https://www.gov.uk/service-manual/agile-</a><a href=\"https://www.gov.uk/service-manual/agile-delivery\" rel=\"noreferrer\" target=\"_blank\">delivery</a>​​</p></li><li><p>Bowes, J. (2014). Agile vs Waterfall: Comparing project management methods.&nbsp;Available at:&nbsp;<a href=\"https://manifesto.co.uk/Agile-vs-Waterfall-comparing-project-management-methodologies/\" rel=\"noreferrer\" target=\"_blank\">https://manifesto.co.uk/Agile-vs-Waterfall-comparing-project-</a><a href=\"https://manifesto.co.uk/Agile-vs-Waterfall-comparing-project-management-methodologies/\" rel=\"noreferrer\" target=\"_blank\">management-methodologies/</a></p></li></ul><p>&nbsp;</p><p><strong>Accessibility and Inclusivity&nbsp;</strong></p><ul><li><p>Home Office, Designing for accessibility&nbsp;<a href=\"https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf\" rel=\"noreferrer\" target=\"_blank\">https://ukhomeoffice.github.io/accessibility-</a><a href=\"https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf\" rel=\"noreferrer\" target=\"_blank\">posters/posters/accessibility-posters.pdf</a>​</p></li><li><p>Guidance and best practice for building accessible services and meeting the Public Sector Bodies&nbsp;Accessibility Regulations 2018&nbsp;<a href=\"https://accessibility-manual.dwp.gov.uk/\" rel=\"noreferrer\" target=\"_blank\">https://accessibility-manual.dwp.gov.uk/</a>​</p></li><li><p>UK Statistics Authority, Inclusive Data Taskforce&nbsp;<a href=\"https://uksa.statisticsauthority.gov.uk/the-authority-board/committees/inclusive-data-taskforce/\" rel=\"noreferrer\" target=\"_blank\">https://uksa.statisticsauthority.gov.uk/the-authority-</a><a href=\"https://uksa.statisticsauthority.gov.uk/the-authority-board/committees/inclusive-data-taskforce/\" rel=\"noreferrer\" target=\"_blank\">board/committees/inclusive-data-taskforce/</a></p></li></ul><p>&nbsp;</p><p><strong>Ethics</strong></p><ul><li><p>UK Statistics Authority Ethical Considerations associated with Qualitative Research Methods&nbsp;<a href=\"https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-associated-with-qualitative-research-methods/\" rel=\"noreferrer\" target=\"_blank\">https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-associated-with-qualitative-research-methods/</a>&nbsp;​</p></li><li><p>Gov.uk Researching emotionally sensitive subjects&nbsp;<a href=\"https://www.gov.uk/service-manual/user-research/researching-emotionally-sensitive-subjects\" rel=\"noreferrer\" target=\"_blank\">https://www.gov.uk/service-manual/user-research/researching-emotionally-</a><a href=\"https://www.gov.uk/service-manual/user-research/researching-emotionally-sensitive-subjects\" rel=\"noreferrer\" target=\"_blank\">sensitive-subjects</a>&nbsp;​</p></li><li><p>GSR Ethical Assurance for Social and Behavioural Research in Government&nbsp;<a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000708/2021-GSR_Ethics_Guidance_v3.pdf\" rel=\"noreferrer\" target=\"_blank\">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000708/2021-</a><a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000708/2021-GSR_Ethics_Guidance_v3.pdf\" rel=\"noreferrer\" target=\"_blank\">GSR_Ethics_Guidance_v3.pdf</a>​</p></li><li><p>SRA Research ethics guidance&nbsp;<a href=\"https://the-sra.org.uk/SRA/Ethics/Research-ethics-guidance/SRA/Ethics/Research-Ethics-Guidance.aspx?hkey=5e809828-fb49-42be-a17e-c95d6cc72da1\" rel=\"noreferrer\" target=\"_blank\">https://the-sra.org.uk/SRA/Ethics/Research-ethics-guidance/SRA/Ethics/Research-Ethics-</a><a href=\"https://the-sra.org.uk/SRA/Ethics/Research-ethics-guidance/SRA/Ethics/Research-Ethics-Guidance.aspx?hkey=5e809828-fb49-42be-a17e-c95d6cc72da1\" rel=\"noreferrer\" target=\"_blank\">Guidance.aspx?hkey=5e809828-fb49-42be-a17e-c95d6cc72da1</a>​</p></li><li><p>UKRI Research ethics guidance&nbsp;<a href=\"https://www.ukri.org/councils/esrc/guidance-for-applicants/research-ethics-guidance/\" rel=\"noreferrer\" target=\"_blank\">https://www.ukri.org/councils/esrc/guidance-for-applicants/research-ethics-guidance/</a>​</p></li><li><p>GDPR&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments\" rel=\"noreferrer\" target=\"_blank\">https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-</a><a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments\" rel=\"noreferrer\" target=\"_blank\">gdpr/accountability-and-governance/data-protection-impact-assessments</a><a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/\" rel=\"noreferrer\" target=\"_blank\">/</a>&nbsp;&nbsp;​</p></li><li><p>UK Statistics Authority Ethical Principles&nbsp;<a href=\"https://uksa.statisticsauthority.gov.uk/the-authority-board/committees/national-statisticians-advisory-committees-and-panels/national-statisticians-data-ethics-advisory-committee/ethical-principles/\" rel=\"noreferrer\" target=\"_blank\">https://uksa.statisticsauthority.gov.uk/the-authority-board/committees/national-</a><a href=\"https://uksa.statisticsauthority.gov.uk/the-authority-board/committees/national-statisticians-advisory-committees-and-panels/national-statisticians-data-ethics-advisory-committee/ethical-principles/\" rel=\"noreferrer\" target=\"_blank\">statisticians-advisory-committees-and-panels/national-statisticians-data-ethics-advisory-committee/ethical-principles/</a>&nbsp;</p></li></ul><p>&nbsp;</p>",
+    "_id": "63a17bc75c080d0a15af11a9",
+    "_parentId": "63a17bbf5c080d0a15af11a8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "63bc06bd5c080d0a15af135b",
+    "_parentId": "63bc06b75c080d0a15af135a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "stages of the data lifecyle - plan; collect, acquire, ingest; prepare, store and maintain; use and process; share and publish; archive or destroy",
+      "large": "course/en/assets/745cc84d3e8b87c8598aa14271a9de07f6052fb9.svg",
+      "small": "course/en/assets/745cc84d3e8b87c8598aa14271a9de07f6052fb9.svg",
+      "attribution": ""
+    }
+  }
+]
