@@ -17,7 +17,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63985fb55c080d0a15af106f",
     "_parentId": "course",
     "_type": "page",
@@ -91,7 +91,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63988de45c080d0a15af108e",
     "_parentId": "course",
     "_type": "page",
@@ -165,7 +165,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63989be85c080d0a15af10af",
     "_parentId": "course",
     "_type": "page",
@@ -227,7 +227,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This section will introduce you to:</p><p>• what User Centred Design (UCD) approach is</p><p>• Civil Service guidance on developing products and services: Service Manual and Government Design Principles</p><p>• understanding why your stakeholders (e.g., customers or sponsors) need the data and how they intend to use it</p><p>• using insights from respondent’s stories, journeys and mental models to inform your data collection</p>",
+    "pageBody": "<p>This section will introduce you to:</p><p>• what User Centred Design (UCD) approach is</p><p>• Civil Service guidance on developing products and services: Service Manual and Government Design Principles</p><p>• understanding why your stakeholders (for example, customers or sponsors) need the data and how they intend to use it</p><p>• using insights from respondent’s stories, journeys and mental models to inform your data collection</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -239,7 +239,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "6399e87c5c080d0a15af10d7",
     "_parentId": "course",
     "_type": "page",
@@ -257,6 +257,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -276,7 +280,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -313,7 +327,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "6399ef865c080d0a15af110d",
     "_parentId": "course",
     "_type": "page",
@@ -375,7 +389,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>• this section will introduce you to some different ethical issues that are relevant in&nbsp;qualitative research data collection.&nbsp;​</p><p>• note that this is not an exhaustive list of ethical issues, but rather, an introduction of more general ethical principles in qualitative research. ​</p><p>• you can use these ethical principles to help guide decision making in designing and conducting qualitative research. ​</p><p>• note: there are ethical considerations for both the participant and the&nbsp;researcher. Some considerations will also apply to quantitative data collection.</p>",
+    "pageBody": "<p>• This section will introduce you to some different ethical issues that are relevant in&nbsp;qualitative research data collection.</p><p>• Note that this is not an exhaustive list of ethical issues, but rather, an introduction of more general ethical principles in qualitative research.</p><p>• You can use these ethical principles to help guide decision making in designing and conducting qualitative research.</p><p>• Note there are ethical considerations for both the participant and the&nbsp;researcher. Some considerations will also apply to quantitative data collection.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -387,7 +401,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "639af55b5c080d0a15af1120",
     "_parentId": "course",
     "_type": "page",
@@ -405,6 +419,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -424,7 +442,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -461,7 +489,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "639b04605c080d0a15af1142",
     "_parentId": "course",
     "_type": "page",
@@ -523,7 +551,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 1.&nbsp;</p><p><strong>You can now move on to Module 2&nbsp;(add link)</strong></p>",
+    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 1.&nbsp;</p><p>You can now move on to <a href=\"https://dataqualityhub.github.io/Data-Collection-Fundamentals-M2/\" target=\"_blank\">Module 2</a></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -535,7 +563,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a090df5c080d0a15af119c",
     "_parentId": "course",
     "_type": "page",
@@ -553,6 +581,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -572,7 +604,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
