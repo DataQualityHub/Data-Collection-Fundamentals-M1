@@ -1,7 +1,7 @@
 [
   {
-    "title": "Course Overview",
-    "displayTitle": "Course Overview",
+    "title": "Course Overview (Module 1, 2 and 3)",
+    "displayTitle": "Course Overview (Module 1, 2 and 3)",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -9,7 +9,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -36,6 +36,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -54,7 +58,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -79,11 +93,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This section will introduce you to:​</p><ul><li><p>what data collection is​</p></li><li><p>differences between data collection and data acquisition​</p></li><li><p>differences between qualitative and quantitative data collection​</p></li><li><p>data quality as part of the data collection process</p></li></ul>",
+    "pageBody": "<p>Welcome to Module 1.</p><p>This section of module 1 will introduce you to:​</p><ul><li><p>what data collection is​</p></li><li><p>differences between data collection and data acquisition​</p></li><li><p>differences between qualitative and quantitative data collection​</p></li><li><p>data quality as part of the data collection process</p></li></ul>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "10 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -110,6 +124,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -128,7 +146,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -157,7 +185,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -184,6 +212,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -202,7 +234,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -227,11 +269,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This section will introduce you to:</p><p>• what User Centred Design (UCD) approach is</p><p>• Civil Service guidance on developing products and services: Service Manual and Government Design Principles</p><p>• understanding why your stakeholders (for example, customers or sponsors) need the data and how they intend to use it</p><p>• using insights from respondent’s stories, journeys and mental models to inform your data collection</p>",
+    "pageBody": "<p>This section will introduce you to:</p><p>• what User Centred Design (UCD) approach is</p><p>• understanding why your stakeholders (for example, customers or sponsors) need the data and how they intend to use it</p><p>• using insights from respondent’s stories, journeys and mental models to inform your data collection</p><p>• Civil Service guidance on developing products and services: Service Manual and Government Design Principles</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "10 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -319,7 +361,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -346,6 +388,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -364,7 +410,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -393,7 +449,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -477,11 +533,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>This section will introduce you to:</p><ul><li>research grids - how they can help ensure you meet the research aims</li><li>communication strategies - how to develop a strategy and the things you will need to consider</li></ul>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "10 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -508,6 +564,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -526,7 +586,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -551,11 +621,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 1.&nbsp;</p><p>You can now move on to <a href=\"https://dataqualityhub.github.io/Data-Collection-Fundamentals-M2/\" target=\"_blank\">Module 2</a></p>",
+    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 1. Scroll down to see further reading and resources related to this module.</p><p>You can now move on to <a href=\"https://dataqualityhub.github.io/Data-Collection-Fundamentals-M2/\" target=\"_blank\">Module 2</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "1 min",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,

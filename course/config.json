@@ -13,22 +13,22 @@
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
-    "_duration": 400
+    "_duration": 400,
+    "_position": "auto"
   },
   "_accessibility": {
     "_isEnabled": true,
-    "_isTextProcessorEnabled": true,
     "_isSkipNavigationEnabled": true,
     "_ariaLevels": {
-      "_menu": 1,
-      "_menuGroup": 2,
-      "_menuItem": 2,
-      "_page": 1,
-      "_article": 2,
-      "_block": 3,
-      "_component": 4,
-      "_componentItem": 5,
-      "_notify": 1
+      "_menu": "1",
+      "_menuGroup": "2",
+      "_menuItem": "2",
+      "_page": "1",
+      "_article": "2",
+      "_block": "3",
+      "_component": "4",
+      "_componentItem": "5",
+      "_notify": "1"
     }
   },
   "__v": 0,
@@ -52,15 +52,17 @@
     "large": 900
   },
   "_trickle": {
+    "_isEnabled": true,
+    "_logState": false,
     "_completionAttribute": "_isComplete"
   },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
-      "_shouldSubmitScore": true,
       "_shouldStoreResponses": true,
       "_shouldStoreAttempts": false,
-      "_shouldRecordInteractions": true
+      "_shouldRecordInteractions": true,
+      "_shouldCompress": false
     },
     "_reporting": {
       "_onTrackingCriteriaMet": "completed",
@@ -68,6 +70,7 @@
       "_resetStatusOnLanguageChange": false
     },
     "_advancedSettings": {
+      "_scormVersion": "1.2",
       "_showDebugWindow": false,
       "_commitOnStatusChange": true,
       "_commitOnAnyChange": false,
@@ -78,7 +81,9 @@
       "_commitOnVisibilityChangeHidden": true,
       "_manifestIdentifier": "adapt_manifest",
       "_exitStateIfIncomplete": "normal",
-      "_exitStateIfComplete": "normal"
-    }
+      "_exitStateIfComplete": "normal",
+      "_setCompletedWhenFailed": true
+    },
+    "_showCookieLmsResetButton": false
   }
 }
